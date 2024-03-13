@@ -4,8 +4,6 @@
 A marketplace project with admin features for category and city management. Users can register, list products, and communicate with buyers/sellers using socket.io. Additional features include wishlist functionality, seller profile viewing, and advanced product search capabilities. Sellers have control over product visibility, and city data can be uploaded via Excel files in the admin panel.
 
 
-![MERN stack](https://res.cloudinary.com/silenceiv/image/upload/c_fill,h_205,w_512/v1617484581/mern_sakbwj.png)
-
 - MERN (MongoDB, Express.js, React, and Node.js) Solution stack;
 - [Cloudinary](https://cloudinary.com/) as a file storage cloud API;
 - [React-Bootstrap](https://react-bootstrap.github.io/);
