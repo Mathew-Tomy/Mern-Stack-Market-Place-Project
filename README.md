@@ -1,23 +1,15 @@
 <<<<<<< HEAD
-# All for you - ReactJS Marketplace Project
+# All for you - Mern Stack Marketplace Project
 
-All for you is a marketplace application for buying and selling services and goods such as electronics, fashion items, furniture, household goods, cars, properties and others. Users can sign up and advertise their goods or contact other sellers in case they want to receive more information about the proposed product or to buy it. They can also add products to Wishlist, archive their old sells or unarchive them if they want to be public again after some time. 
+A marketplace project with admin features for category and city management. Users can register, list products, and communicate with buyers/sellers using socket.io. Additional features include wishlist functionality, seller profile viewing, and advanced product search capabilities. Sellers have control over product visibility, and city data can be uploaded via Excel files in the admin panel.
 
-# Live demo: https://all-for-you.herokuapp.com/
-
-![Preview](https://res.cloudinary.com/silenceiv/image/upload/v1617894482/all-for-you-mockup_dafr6c.jpg)
-
-# Tech Stack
 
 ![MERN stack](https://res.cloudinary.com/silenceiv/image/upload/c_fill,h_205,w_512/v1617484581/mern_sakbwj.png)
 
 - MERN (MongoDB, Express.js, React, and Node.js) Solution stack;
 - [Cloudinary](https://cloudinary.com/) as a file storage cloud API;
-- [Unsplash](https://unsplash.com/) as image provider;
 - [React-Bootstrap](https://react-bootstrap.github.io/);
-- Responsive Design;
-- UX & UI;
-- Validation and error handling.
+
 
 # How to run 
 
