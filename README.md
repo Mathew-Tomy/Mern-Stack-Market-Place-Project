@@ -41,6 +41,4 @@ npm start
 The app will run on http://localhost:3000/
 
 =======
-# Mern-Stack-Market-Place-Project
- A MERN stack marketplace project with admin features for category and city management. Users can register, list products, and communicate with buyers/sellers using socket.io. Additional features include wishlist functionality, seller profile viewing, and advanced product search capabilities.
->>>>>>> a04e6c02a838ef6ddba43bcb83c691858d92f7ec
+
