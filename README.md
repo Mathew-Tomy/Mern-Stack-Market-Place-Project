@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # All for you - Mern Stack Marketplace Project
 
 A marketplace project with admin features for category and city management. Users can register, list products, and communicate with buyers/sellers using socket.io. Additional features include wishlist functionality, seller profile viewing, and advanced product search capabilities. Sellers have control over product visibility, and city data can be uploaded via Excel files in the admin panel.
